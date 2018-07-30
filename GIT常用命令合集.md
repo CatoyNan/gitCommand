@@ -9,8 +9,8 @@
 | 查看修改内容               | git diff 文件名            |
 | 查看历史版本               | git log                    |
 | 查看历史版本（一行）       | git log --pretty=oneline   |
-|                            |                            |
-|                            |                            |
+| 回退版本号                 | git reset --hard 版本号    |
+| 获取版本号                 | git reflog                 |
 |                            |                            |
 |                            |                            |
 |                            |                            |
