@@ -17,6 +17,13 @@
 | 查看引用日志                 | git reflog                 |
 | 撤销工作区文件的修改         | git checkout --文件名      |
 | 撤销已经提交到暂存区中的修改 | git reset HEAD 文件名      |
+| 添加一个远程git仓库          | git remote add 简写名 链接 |
+| 创建一个分支                 | git banch name             |
+| 删除一个分支                 | git banch -d name          |
+| 切换分支                     | git checkout name          |
+| 创建并切换到该分支           | git checkout -b name       |
+| 将某分支合并到当前分支       | git merge name             |
+|                              |                            |
 |                              |                            |
 |                              |                            |
 
@@ -30,6 +37,6 @@
 
 ## 二、附录：
 
-### 1、log常用选项
+### 1、log详细选项
 
 ![log相关指令](GIT常用命令合集.assets/log.jpg)
