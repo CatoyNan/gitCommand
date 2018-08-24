@@ -17,7 +17,7 @@
 | 查看引用日志                                   | git reflog                 |
 | 撤销工作区文件的修改                           | git checkout   --   file-name |
 | 撤销已经提交到暂存区中的修改                   | git reset  HEAD  file-name |
-| 添加一个远程git仓库                            | git remote add  remote-name(远程主机名)  ur |
+| 添加一个远程git仓库                            | git remote add  remote-name(远程主机名)  url |
 | 将代码推送到git仓库                            | git push remote-name  branch-name(本地分支名) :remote-branch-name(远程分支名) |
 | 创建一个分支                                   | git branch name            |
 | 删除一个分支                                   | git branch -d name         |
