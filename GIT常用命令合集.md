@@ -24,7 +24,7 @@
 | 切换分支                                       | git checkout name          |
 | 创建并切换到该分支                             | git checkout -b name       |
 | 将某分支合并到当前分支                         | git merge name             |
-|                                                |                            |
+| pull远程git仓库的文件 | git pull <远程主机名> <远程分支名>:<本地分支名> |
 |                                                |                            |
 |                                                |                            |
 
