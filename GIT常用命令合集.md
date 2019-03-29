@@ -25,8 +25,10 @@
 | 创建并切换到该分支                             | git checkout -b name       |
 | 将某分支合并到当前分支                         | git merge name             |
 | pull远程git仓库的文件 | git pull <远程主机名> <远程分支名>:<本地分支名> |
-|                                                |                            |
-|                                                |                            |
+| 在本地仓库删除文件 | git rm 我的文件 |
+| 在本地仓库 删除目录 | git rm -r 我的文件夹 |
+| 将本地分支关联远程从库的某个分支 | git branch --set-upstream-to=origin/远程分支名  本地分支名 |
+| 查看本地分支与远程分支的追踪关系 | git branch -vv |
 
 
 
