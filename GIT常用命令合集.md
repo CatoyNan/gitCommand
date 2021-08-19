@@ -32,9 +32,9 @@
 
 
 
- 
+####  git reset 三个参数
 
- 
+![lADPDh0cQOo3QJrNEPXNEjQ_4660_4341](asserts/lADPDh0cQOo3QJrNEPXNEjQ_4660_4341.jpg)
 
  
 
